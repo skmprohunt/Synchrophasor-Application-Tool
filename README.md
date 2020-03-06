@@ -1,4 +1,4 @@
-# Synchrophasor Appllication Tool
+# Synchrophasor Application Tool
 Operation Instructions : 
 PLease download the attached files WSCC 9 bus modified.PWB and WSCC 9 bus modified.pwd and the required software from Power World Dynamic Studio version 21 https://www.powerworld.com/gloveroverbyesarma.
 
