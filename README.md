@@ -1,6 +1,6 @@
 # Synchrophasor Application Tool
 Operation Instructions : 
-PLease download the attached files WSCC 9 bus modified.PWB and WSCC 9 bus modified.pwd and the required software from Power World Dynamic Studio version 21 https://www.powerworld.com/gloveroverbyesarma.
+Please download the attached files WSCC 9 bus modified.PWB and WSCC 9 bus modified.pwd and the required software from Power World Dynamic Studio version 21 https://www.powerworld.com/gloveroverbyesarma.
 
 In Dynamic Studio open the case and the oneline file and setup the server IP address and port.
 
@@ -31,4 +31,4 @@ In case of the following error:
   Error in run (line 86)
   evalin('caller', [script ';']);
   "
-please verify the connection parameters in the settings tab of the SynchrophasorApp.
+Please verify the connection parameters in the settings tab of the SynchrophasorApp.
