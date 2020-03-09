@@ -16,6 +16,7 @@ After Intallation select "SynchrophasorApp" from MyApps to run the app.
 In the synchrophasor application tool specify the IP address and other relevant parameters alongwith the lines for which power flow is to be calculated.
 
 # Note : Select any two lines in active power tab, and two lines in reactive power tab.
+Due to the fact that the application is cuurently under development.
 
 In case of the following error:
   "
